@@ -1,0 +1,3 @@
+NSCameraUsageDescription = "Para cargar su foto de perfil, esta aplicación requiere permiso para acceder a su cámara";
+NSPhotoLibraryUsageDescription = "Para cargar tu foto de perfil, esta aplicación requiere permiso para acceder a tu galería.";
+PermissionGroupNotification = "Para recibir notificaciones, esta aplicación requiere su permiso";

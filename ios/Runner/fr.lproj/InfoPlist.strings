@@ -1,0 +1,3 @@
+NSCameraUsageDescription = "Afin de télécharger votre photo de profil, cette application nécessite l'autorisation d'accéder à votre appareil photo.";
+NSPhotoLibraryUsageDescription = "Afin de télécharger votre photo de profil, cette application nécessite l'autorisation d'accéder à votre galerie";
+PermissionGroupNotification = "Afin de recevoir des notifications, cette application nécessite votre autorisation";

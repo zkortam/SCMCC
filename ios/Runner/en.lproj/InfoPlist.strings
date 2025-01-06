@@ -1,0 +1,4 @@
+NSCameraUsageDescription = "In order to upload your profile picture, this app requires permission to access your camera";
+NSPhotoLibraryUsageDescription = "In order to upload your profile picture, this app requires permission to access your gallery";
+PermissionGroupNotification = "In order to get notifications, this app requires your permission";
+NSMicrophoneUsageDescription = "For any audio recordings, the Microphone is necessary.";

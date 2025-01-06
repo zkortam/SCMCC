@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "531913213367",
+    "project_id": "musalla-b1ad2",
+    "storage_bucket": "musalla-b1ad2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531913213367:android:9eca64aeef1bebf714d432",
+        "android_client_info": {
+          "package_name": "com.musalla.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531913213367-300hhba9fl9hk5goll4jd0sbgsqth2l3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.musalla.app",
+            "certificate_hash": "d434c5590c3998ea4591aeec278dc7a3a9e7c04a"
+          }
+        },
+        {
+          "client_id": "531913213367-baefe8ik8vcs9jhj8o7g7g45cb3jj1kl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.musalla.app",
+            "certificate_hash": "6c59593fc4e3e7e27118441350ba040a00c80c95"
+          }
+        },
+        {
+          "client_id": "531913213367-chkpti9aon0ujq0dsorsl3rd2pek7mk2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.musalla.app",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "531913213367-tjf45o82ejvsvn6gunhva4gh45kvc9us.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeM7mB6rGtIZVDTeuxFeym7wwJ1EYDmRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531913213367-tjf45o82ejvsvn6gunhva4gh45kvc9us.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "531913213367-2ldmmjf26bjsve8jssa5g9j0j8jim829.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.musalla.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531913213367:android:dc95f121259eb64714d432",
+        "android_client_info": {
+          "package_name": "com.scmcc.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531913213367-4u8k74v50rto2rca0d9espn02u5p4kv6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.scmcc.app",
+            "certificate_hash": "6c59593fc4e3e7e27118441350ba040a00c80c95"
+          }
+        },
+        {
+          "client_id": "531913213367-p90eb2rrl83684kk0260bkjd4ahq0fe6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.scmcc.app",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "531913213367-tjf45o82ejvsvn6gunhva4gh45kvc9us.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeM7mB6rGtIZVDTeuxFeym7wwJ1EYDmRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531913213367-tjf45o82ejvsvn6gunhva4gh45kvc9us.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "531913213367-2ldmmjf26bjsve8jssa5g9j0j8jim829.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.musalla.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
