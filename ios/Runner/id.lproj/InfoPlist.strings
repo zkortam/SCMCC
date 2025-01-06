@@ -1,0 +1,3 @@
+NSCameraUsageDescription = "Untuk mengunggah gambar profil Anda, aplikasi ini memerlukan izin untuk mengakses kamera Anda";
+NSPhotoLibraryUsageDescription = "Untuk mengunggah gambar profil Anda, aplikasi ini memerlukan izin untuk mengakses galeri Anda";
+PermissionGroupNotification = "Untuk mendapatkan notifikasi, aplikasi ini memerlukan izin Anda";
